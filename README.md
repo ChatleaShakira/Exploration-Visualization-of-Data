@@ -16,4 +16,16 @@ Borobudur Temple is a Buddhist temple located in Magelang, Central Java. The tem
    e. Word Tree
 
 **Conclusion:**
+\
 The topic that our group raised in this project is about the plan of Minister Luhut Panjaitan to increase the entrance fee to Borobudur Temple. This plan has received a lot of criticism from the public, from the 1000 tweets that we collected, it is proven by looking at the visualization that there are several keywords that appear most often are “borobudur”, “tiket”, “candi”, “harga”, and “kenaikan”, besides the keywords that appear most often, terms such as: “ditunda”, “nyinyir”, “murah kelakuan wisatawan lokal kaya”, “protes” and others also appear quite often, proven by the visualization, these words are not too small in size. This indicates the resistance of the public to the government’s discourse on raising the entrance fee to Borobudur Temple.
+
+## Acknowledgments
+
+I would like to express my gratitude to the following individuals for their valuable contributions and support throughout the development of this project:
+
+- Zahrah Mahfuzah
+- Esly Vani Frasanti Saragih
+- Divaya Syifa Susilobudi
+
+Their hard work and teamwork have not only made this project possible but have also created an environment of creativity and efficiency. I am truly grateful for the opportunity to work alongside such talented individuals.
+
