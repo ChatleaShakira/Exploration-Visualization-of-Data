@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-and-Visualization
 ## Exploration and Visualization of Social Media Data on Twitter with the Keyword “Tiket Borobudur"
 \
-Data Exploration & Visualization is one of the elective courses in the Statistics program at the University of Indonesia that I took in my sixth semester. This course is designed to enable students to explore and visualize data using various techniques and methods, using open-source software, and to analyze data descriptively to gain useful insights.\
+Data Exploration & Visualization is one of the elective courses in the Statistics program at the University of Indonesia that I took in my second semester. This course is designed to enable students to explore and visualize data using various techniques and methods, using open-source software, and to analyze data descriptively to gain useful insights.\
 \
 Borobudur Temple is a Buddhist temple located in Magelang, Central Java. The temple was built around the 8th century AD by the followers of Mahayana Buddhism. Borobudur is the largest Buddhist monument in the world and has been designated by UNESCO as a world cultural heritage. This makes Borobudur Temple a popular tourist destination among domestic and foreign tourists. Recently, the Coordinating Minister for Maritime Affairs and Investment of Indonesia, Luhut Binsar Panjaitan announced a plan to increase the entrance fee to Borobudur Temple. For both domestic and foreign tourists.\
 \
