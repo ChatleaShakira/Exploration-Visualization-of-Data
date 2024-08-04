@@ -1,4 +1,4 @@
-# Exploration-Visualization-of-Data
+# Exploratory-Data-Analysis-and-Visualization
 ## Exploration and Visualization of Social Media Data on Twitter with the Keyword “Tiket Borobudur"
 \
 Data Exploration & Visualization is one of the elective courses in the Statistics program at the University of Indonesia that I took in my sixth semester. This course is designed to enable students to explore and visualize data using various techniques and methods, using open-source software, and to analyze data descriptively to gain useful insights.\
